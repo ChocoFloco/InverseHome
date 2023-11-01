@@ -1,0 +1,33 @@
+{
+  "background_color": "#ffffff",
+  "description": "A Easy Webapp Proxy",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Inverse",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Inverse",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Open",
+      "url": "https://inverse-home.vercel.app/",
+      "description": "Web"
+    }
+  ],
+  "id": "Inverse",
+  "lang": "en",
+  "display_override": [
+    "window-controls-overlay"
+  ]
+}
