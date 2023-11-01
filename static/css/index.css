@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhnZHgzN3R3aWxrNDdtOGswbWd6YmlubHEyOHo5MDJmbGExejRmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WNAHuqi0ZyXi1sXlZG/giphy.gif)
+  }
+
+.box{
+    margin-right:auto;
+    margin-left:auto;
+}
+#searchbar {
+    display: block;
+}
