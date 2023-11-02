@@ -25,6 +25,7 @@ const routes = [
   { path: '/loading', file: 'loading.html' },
   { path: '/books', file: 'book.html' },
   { path: '/ex', file: 'money.html' },
+    { path: '/us', file: 'people.html' },
 
 ];
 
