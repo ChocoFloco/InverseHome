@@ -8,6 +8,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
+      name: "Roblox",
+      link: "https://now.gg/play/roblox-corporation/5349/roblox",
+      image: "/images/icons/roblox.jpg",
+      categories: ['all'],
+      error: false
+    },
+    {
       name: "Dynast.io",
       link: "https://dynast.io",
       image: "/images/icons/dynast-io.png",
