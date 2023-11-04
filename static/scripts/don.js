@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
       name: "Donate",
       link: "https://www.buymeacoffee.com/rishiruparelia",
-      image: "/images/icons/apps/donate.png",
+      image: "/images/icons/apps/Donate-button.png",
       categories: ["all"],
       error: false
     },
