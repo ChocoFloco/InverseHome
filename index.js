@@ -26,6 +26,7 @@ const routes = [
   { path: '/books', file: 'book.html' },
   { path: '/ex', file: 'money.html' },
     { path: '/us', file: 'people.html' },
+      { path: '/don', file: 'donate.html' },
 
 ];
 
