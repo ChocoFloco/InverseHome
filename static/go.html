@@ -58,6 +58,7 @@
 
     <button onclick="reload()" class="navbtn"> <i class="fa-solid fa-rotate-right"></i> </button>
     <button id="home-page" class="navbtn1" onclick="reload()"> <i class="fa-solid fa-house"></i> </button>
+        <button id="game-page" class="navbtn1" onclick="reload()"> <i class="fa-solid fa-gamepad navbar-icon"></i> </button>
     <button id="fullscreen-button" class="navbtn2"><i class="fa-solid fa-expand"></i></button>
 
     <script>
@@ -75,6 +76,10 @@
       const homeButton = document.getElementById("home-page");
         homeButton.addEventListener("click", function () {
         window.location.href = "./";
+      });
+      const homButton = document.getElementById("game-page");
+        homeButton.addEventListener("click", function () {
+        window.location.href = "/./algebra";
       });
       window.onload = function() {
         let encodedUrl = sessionStorage.getItem("encodedUrl");
