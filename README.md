@@ -25,3 +25,14 @@ Some of the popular websites that Inverse supports include:
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/ChocoFloco/inversehome"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 <a target="_blank" href="https://render.com/deploy?repo=https://github.com/ChocoFloco/IN-Render"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
 <a target="_blank" href="https://app.cyclic.sh/api/app/deploy/ChocoFloco/inversehome"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
+
+## Deploy to Replit
+1. Create a Replit Account (https://replit.com)
+2. Click **+ Create Repl**
+3. Click **Template** and Change the language to **Node.js**
+4. Then click **Create Repl**
+5. Click **Shell**
+- Paste the code below. (Ctrl + Shift + V)
+- `git clone https://github.com/ChocoFloco/inversehome`
+6. Once it's done cloning paste the code below. (Ctrl + Shift + V)
+- ``cd inversehome && npm i && npm run start``
