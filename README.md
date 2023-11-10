@@ -16,3 +16,12 @@ Some of the popular websites that Inverse supports include:
 -   [Reddit](https://reddit.com)
 -   [GeForce NOW](https://play.geforcenow.com/)
 -   [now.gg](https://now.gg)
+
+
+> **Note**
+
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/ChocoFloco/inversehome"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://replit.com/github/ChocoFloco/inversehome"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/ChocoFloco/inversehome"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://render.com/deploy?repo=https://github.com/ChocoFloco/IN-Render"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
+<a target="_blank" href="https://app.cyclic.sh/api/app/deploy/ChocoFloco/inversehome"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
