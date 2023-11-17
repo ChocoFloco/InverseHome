@@ -16,7 +16,7 @@ app.use(cors());
 app.use(express.static(path.join(__dirname, 'static')));
 
 const routes = [
-  { path: '/', file: 'index.html' },
+  { path: '/', file: 'home.html' },
   { path: '/news', file: 'apps.html' },
   { path: '/algebra', file: 'games.html' },
   { path: '/diagnostic', file: 'settings.html' },
