@@ -492,7 +492,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Slope",
-      link: "https://watchdocumentaries.com/wp-content/uploads/games/slope/",
+      link: "https://storage.y8.com/y8-studio/unity_webgl/bitlaslt/slope_v_1_2_5/?key=9757549&value=80527",
       image: "/images/icons/slope.webp",
       categories: ['all'],
       error: false
